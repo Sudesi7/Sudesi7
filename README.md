@@ -106,12 +106,10 @@ I am a dedicated **Software Engineering undergraduate** pursuing a **BSc (Hons) 
 
 ---
 
+---
+
 ### 📊 GitHub Activity & Contributions
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Sudesi7&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sudesi7&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
 </div>
