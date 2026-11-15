@@ -18,11 +18,11 @@
 
 ### 👩‍💻 About Me
 
-I am a dedicated **Software Engineering undergraduate** pursuing a **BSc (Hons) Computing** affiliated with **Coventry University, UK** (via NIBM Sri Lanka)[cite: 1, 17], with hands-on industry software engineering experience at **Ceylon Electricity Board (CEB)**[cite: 1, 17], **Sri Lanka Army (DIT Division)**[cite: 1], and **Detz Global Pvt Ltd**[cite: 1].
+I am a dedicated **Software Engineering undergraduate** pursuing a **BSc (Hons) Computing** affiliated with **Coventry University, UK** (via NIBM Sri Lanka), with hands-on industry software engineering experience at **Ceylon Electricity Board (CEB)**, **Sri Lanka Army (DIT Division)**, and **Detz Global Pvt Ltd**.
 
-- 🔭 **Current Focus:** Architecting enterprise reporting platforms, role-based AI assistants (**Gemini API**), and privacy-preserving **Machine Learning** systems[cite: 1, 3].
-- 🛠️ **Core Stacks:** `MERN Stack`, `FERN Stack`, `.NET`, `Java Spring Boot`, `Flutter`, and `Python ML`[cite: 1, 2, 3, 4].
-- 🥋 **Beyond Code:** **3rd Dan Karate Black Belt** (National School Team & School Captain)[cite: 4, 5] and **Visharada** in Violin & Vocal classical music[cite: 5].
+- 🔭 **Current Focus:** Architecting enterprise reporting platforms, role-based AI assistants (**Gemini API**), and privacy-preserving **Machine Learning** systems.
+- 🛠️ **Core Stacks:** `MERN Stack`, `FERN Stack`, `.NET`, `Java Spring Boot`, `Flutter`, and `Python ML`.
+- 🥋 **Beyond Code:** **3rd Dan Karate Black Belt** (National School Team & School Captain) and **Visharada** in Violin & Vocal classical music.
 - ⚡ **Fun Fact:** I bring the discipline of martial arts and the precision of classical music into writing clean, scalable production code.
 
 ---
@@ -31,10 +31,10 @@ I am a dedicated **Software Engineering undergraduate** pursuing a **BSc (Hons) 
 
 | Role | Organization | Highlights |
 | :--- | :--- | :--- |
-| **Software Engineer Intern** | **Ceylon Electricity Board (CEB)**[cite: 1] | Enterprise IT systems, React.js & .NET electricity reporting platform, SQL Server & RBAC[cite: 1, 3]. |
-| **Full Stack SWE Intern** | **Detz Global Pvt Ltd**[cite: 1] | Role-Based AI Chatbot (**Gemini API & Firebase**), Node.js attendance modules, React API integration[cite: 1]. |
-| **Full Stack SWE Intern** | **Sri Lanka Army – DIT Division**[cite: 1] | Internal full-stack systems, UI/backend architecture, data automation & technical documentation[cite: 1]. |
-| **Software Dev Intern** | **CodVeda Competition, India**[cite: 1] | Competitive real-world full-stack challenges using React.js, Express.js & JavaScript[cite: 2]. |
+| **Software Engineer Intern** | **Ceylon Electricity Board (CEB)** | Enterprise IT systems, React.js & .NET electricity reporting platform, SQL Server & RBAC. |
+| **Full Stack SWE Intern** | **Detz Global Pvt Ltd** | Role-Based AI Chatbot (**Gemini API & Firebase**), Node.js attendance modules, React API integration. |
+| **Full Stack SWE Intern** | **Sri Lanka Army – DIT Division** | Internal full-stack systems, UI/backend architecture, data automation & technical documentation. |
+| **Software Dev Intern** | **CodVeda Competition, India** | Competitive real-world full-stack challenges using React.js, Express.js & JavaScript. |
 
 ---
 
@@ -44,37 +44,37 @@ I am a dedicated **Software Engineering undergraduate** pursuing a **BSc (Hons) 
   <tr>
     <td width="50%">
       <h4>⚡ CEB Electricity Management & Reporting Platform</h4>
-      <p>Enterprise web reporting system for Ceylon Electricity Board featuring dynamic dashboards, area-wise analytics, exportable reports, and role-based access control[cite: 3].</p>
-      <code>React.js</code> <code>.NET</code> <code>SQL Server</code> <code>REST APIs</code>[cite: 3]
+      <p>Enterprise web reporting system for Ceylon Electricity Board featuring dynamic dashboards, area-wise analytics, exportable reports, and role-based access control.</p>
+      <code>React.js</code> <code>.NET</code> <code>SQL Server</code> <code>REST APIs</code>
     </td>
     <td width="50%">
       <h4>🤖 Role-Based Enterprise AI Chatbot</h4>
-      <p>Intelligent conversational assistant with context-aware responses and role-based permissions built during my full-stack internship at Detz Global[cite: 1].</p>
-      <code>React.js</code> <code>Gemini API</code> <code>Firebase</code> <code>Node.js</code>[cite: 1]
+      <p>Intelligent conversational assistant with context-aware responses and role-based permissions built during my full-stack internship at Detz Global.</p>
+      <code>React.js</code> <code>Gemini API</code> <code>Firebase</code> <code>Node.js</code>
     </td>
   </tr>
   <tr>
     <td width="50%">
       <h4>🔋 Real-Time Generator Management System</h4>
-      <p>Live energy & utility monitoring platform tracking generator status, maintenance schedules, and operational performance metrics[cite: 2].</p>
-      <code>React.js</code> <code>Node.js</code> <code>Express.js</code> <code>MongoDB</code> <code>Firebase</code>[cite: 2]
+      <p>Live energy & utility monitoring platform tracking generator status, maintenance schedules, and operational performance metrics.</p>
+      <code>React.js</code> <code>Node.js</code> <code>Express.js</code> <code>MongoDB</code> <code>Firebase</code>
     </td>
     <td width="50%">
       <h4>🏥 Sewanagala Ayurveda Management System</h4>
-      <p>Digital healthcare platform for patient records, doctor consultations, administrative workflows, and automated clinical reporting[cite: 2, 3].</p>
-      <code>React.js</code> <code>Node.js</code> <code>Express.js</code> <code>MongoDB</code> <code>REST APIs</code>[cite: 3]
+      <p>Digital healthcare platform for patient records, doctor consultations, administrative workflows, and automated clinical reporting.</p>
+      <code>React.js</code> <code>Node.js</code> <code>Express.js</code> <code>MongoDB</code> <code>REST APIs</code>
     </td>
   </tr>
   <tr>
     <td width="50%">
       <h4>🛒 All Business Match POS & E-Commerce</h4>
-      <p>Multi-business Point of Sale system and online ordering platform with real-time stock tracking, billing, and Stripe payment integration[cite: 3].</p>
-      <code>React.js</code> <code>.NET</code> <code>Node.js</code> <code>MongoDB</code> <code>Stripe API</code>[cite: 3]
+      <p>Multi-business Point of Sale system and online ordering platform with real-time stock tracking, billing, and Stripe payment integration.</p>
+      <code>React.js</code> <code>.NET</code> <code>Node.js</code> <code>MongoDB</code> <code>Stripe API</code>
     </td>
     <td width="50%">
       <h4>📱 SinLearn Bilingual EdTech Mobile App</h4>
-      <p>Interactive Sinhala & English mobile learning platform featuring structured lessons, quizzes, cloud sync, and student progress tracking[cite: 3].</p>
-      <code>Flutter</code> <code>React.js</code> <code>Firebase</code>[cite: 3]
+      <p>Interactive Sinhala & English mobile learning platform featuring structured lessons, quizzes, cloud sync, and student progress tracking.</p>
+      <code>Flutter</code> <code>React.js</code> <code>Firebase</code>
     </td>
   </tr>
 </table>
@@ -108,9 +108,4 @@ I am a dedicated **Software Engineering undergraduate** pursuing a **BSc (Hons) 
 
 <div align="center">
   <img height="165em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Sudesi7&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
-  <img height="165em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Sudesi7&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Sudesi7&theme=tokyonight&hide_border=true" />
-</div>
+  <img height="165em" src="
