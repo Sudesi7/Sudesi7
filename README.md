@@ -1,8 +1,9 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:0ea5e9,100:10b981&height=200&section=header&text=Sudesi%20Samarakoon&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Associate%20Software%20Engineer%20%7C%20Full%20Stack%20%26%20AI%20Developer&descAlignY=58&descSize=16" width="100%" />
+
+  # Hi there, I'm Sudesi Samarakoon 👋
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=BSc+(Hons)+Computing+Undergraduate+%7C+Coventry+University+UK;Full+Stack+Engineer+(MERN+%E2%80%A2+FERN+%E2%80%A2+.NET+%E2%80%A2+Spring+Boot);AI+%26+Machine+Learning+Developer+(Gemini+API+%E2%80%A2+Federated+Learning);3rd+Dan+Karate+Black+Belt+%7C+Violin+%26+Vocal+Visharada" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=Associate+Software+Engineer+%7C+Full+Stack+%26+AI+Developer;BSc+(Hons)+Computing+Undergraduate+%7C+Coventry+University+UK;Full+Stack+Engineer+(MERN+%E2%80%A2+FERN+%E2%80%A2+.NET+%E2%80%A2+Spring+Boot);AI+%26+Machine+Learning+Developer+(Gemini+API+%E2%80%A2+Federated+Learning);3rd+Dan+Karate+Black+Belt+%7C+Violin+%26+Vocal+Visharada" alt="Typing SVG" />
   </a>
 
   <p>
@@ -10,18 +11,19 @@
     <a href="mailto:samarasude7@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
     <img src="https://komarev.com/ghpvc/?username=Sudesi7&label=Profile%20Views&color=0ea5e9&style=for-the-badge" />
   </p>
+
 </div>
 
 ---
 
 ### 👩‍💻 About Me
 
-I am a dedicated **Software Engineering undergraduate** pursuing a **BSc (Hons) Computing** affiliated with **Coventry University, UK** (via NIBM Sri Lanka), with hands-on industry software engineering experience at **Ceylon Electricity Board (CEB)**, **Sri Lanka Army (DIT Division)**, and **Detz Global Pvt Ltd**.
+I am a dedicated **Software Engineering undergraduate** pursuing a **BSc (Hons) Computing** affiliated with **Coventry University, UK** (via NIBM Sri Lanka)[cite: 1, 17], with hands-on industry software engineering experience at **Ceylon Electricity Board (CEB)**[cite: 1, 17], **Sri Lanka Army (DIT Division)**[cite: 1], and **Detz Global Pvt Ltd**[cite: 1].
 
 - 🔭 **Current Focus:** Architecting enterprise reporting platforms, role-based AI assistants (**Gemini API**), and privacy-preserving **Machine Learning** systems[cite: 1, 3].
-- 🛠️ **Core Stacks:** `MERN Stack`, `FERN Stack`, `.NET`, `Java Spring Boot`, `Flutter`, and `Python ML`[cite: 1, 2, 4].
+- 🛠️ **Core Stacks:** `MERN Stack`, `FERN Stack`, `.NET`, `Java Spring Boot`, `Flutter`, and `Python ML`[cite: 1, 2, 3, 4].
 - 🥋 **Beyond Code:** **3rd Dan Karate Black Belt** (National School Team & School Captain)[cite: 4, 5] and **Visharada** in Violin & Vocal classical music[cite: 5].
-- ⚡ **Fun Fact:** I bring the discipline of martial arts and the precision of classical music into writing clean, scalable production code[cite: 2, 4, 5].
+- ⚡ **Fun Fact:** I bring the discipline of martial arts and the precision of classical music into writing clean, scalable production code.
 
 ---
 
@@ -105,10 +107,10 @@ I am a dedicated **Software Engineering undergraduate** pursuing a **BSc (Hons) 
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Sudesi7&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sudesi7&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
+  <img height="165em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Sudesi7&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
+  <img height="165em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Sudesi7&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sudesi7&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=Sudesi7&theme=tokyonight&hide_border=true" />
 </div>
